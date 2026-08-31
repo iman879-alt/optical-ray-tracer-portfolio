@@ -1,6 +1,6 @@
 # 3D Optical Ray Tracer
 
-**Individual Python project — Imperial College London | Project mark: 89%**
+**Individual Python project - Imperial College London | Project mark: 89%**
 
 ## Overview
 
